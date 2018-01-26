@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "orientation": "portrait",
+    "name": "UdaciFitness",
+    "description": "The best triathlon tracker ever",
+    "slug": "udacifitness",
+    "version": "1.0",
+    "ios": {
+      "bundleIdentifier": "org.udacifitness.exp",
+    },
+    "android": {
+      "package": "org.udacifitness.exp",
+    }
+  }
+}
